@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Personal Profile</string>
+    <string name="txt_header">John</string>
+    <string name="txt_caption">Just John</string>
+    <string name="btn_view">View Profile</string>
+    <string name="txt_bio">John was born in Michigan, but moved to Illinois
+        about 3 years ago. He enjoys playing video games and works in
+        IT as a Database Engineer.</string>
+</resources>
